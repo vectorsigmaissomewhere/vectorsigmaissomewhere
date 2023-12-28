@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whocanbevectorsigma&show_icons=true&locale=en" alt="batmainisvectorsigma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="whocanbevectorsigma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whocanbevectorsigma&" alt="whocanbevectorsigma" /></p>

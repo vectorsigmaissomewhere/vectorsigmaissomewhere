@@ -21,5 +21,6 @@
 <p>HackerRank</p>
 <a href="https://www.hackerrank.com/profile/riddler01">Click me</a><br>
 
-<p><a href="" color="red">Click to view my certificated</a></p>
+[Click to view my certificates](#)<span style="color:red"> &#x1F4DC;</span>
+
 

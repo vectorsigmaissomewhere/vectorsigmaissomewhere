@@ -19,4 +19,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vectorsigmaissomewhere" alt="whocanbevectorsigma" /></p>
 
 <p>HackerRank</p>
-<a href="https://www.hackerrank.com/profile/riddler01">Click me</a>
+<a href="https://www.hackerrank.com/profile/riddler01">Click me</a><br>
+<style>
+@keyframes colorChange {
+    0% { color: blue; }
+    50% { color: red; }
+    100% { color: green; }
+}
+a.certificate {
+    animation: colorChange 3s infinite alternate; 
+    text-decoration: none; 
+}
+</style>
+<a href="#" class="certificate">Click to view my certificates</a>

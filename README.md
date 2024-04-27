@@ -20,7 +20,5 @@
 
 <a href="https://www.hackerrank.com/profile/riddler01">Click me to view my hackerrank profile</a><br>
 
-<a href="#">Click to view my certificates</a><br>
-
-<inframe src="https://www.hackerrank.com/certificates/iframe/5739b087bfaf" title="Python Certificate"></inframe>
+<a href="https://github.com/vectorsigmaissomewhere/DocumentsToshow/blob/main/Hackerank/readme.md">Click to view my certificates</a><br>
 

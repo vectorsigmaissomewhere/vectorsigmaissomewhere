@@ -1,4 +1,4 @@
-<img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/de54c77267d3ec567f75fe9efcc0d7cd-ezgif.com-added-text.gif" width="900" align="center">
+<img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/de54c77267d3ec567f75fe9efcc0d7cd-ezgif.com-added-text%20(1).gif" width="900" align="center">
 <h1 align="center">Hi 👋, I'm Vector</h1>
 <h3 align="center">Tech Enthusiast</h3>
 <img align="right" alt="room" width="400" src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-26960be4d3ce7cff9d948aa697e83927.jpg?resize=1&w=1920">
@@ -22,10 +22,10 @@
 
 <a href="https://github.com/vectorsigmaissomewhere/DocumentsToshow/blob/main/Hackerank/readme.md">Click to view my certificates</a><br>
 <br>
-<h1>Projects on CV</h1>
-<a href="https://github.com/vectorsigmaissomewhere/MusicEventTracker">Music Event Tracker</a>
-<a href="https://github.com/vectorsigmaissomewhere/Django-Projects-/tree/main/phonebookapp">Phone Book App</a>
-<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/Blog-web-app">Blog Web Application</a>
-<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/University-Quora">Word Counter</a>
+<h1>Projects on CV</h1><br>
+<a href="https://github.com/vectorsigmaissomewhere/MusicEventTracker">Music Event Tracker</a><br>
+<a href="https://github.com/vectorsigmaissomewhere/Django-Projects-/tree/main/phonebookapp">Phone Book App</a><br>
+<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/Blog-web-app">Blog Web Application</a><br>
+<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/University-Quora">Word Counter</a><br>
 
 

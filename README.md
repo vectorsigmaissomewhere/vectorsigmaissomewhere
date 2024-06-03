@@ -26,6 +26,6 @@
 <a href="https://github.com/vectorsigmaissomewhere/MusicEventTracker">Music Event Tracker</a><br>
 <a href="https://github.com/vectorsigmaissomewhere/Django-Projects-/tree/main/phonebookapp">Phone Book App</a><br>
 <a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/Blog-web-app">Blog Web Application</a><br>
-<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/University-Quora">Word Counter</a><br>
+<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/University-Quora">University Quora</a><br>
 
 

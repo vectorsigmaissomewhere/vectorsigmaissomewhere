@@ -21,4 +21,11 @@
 <a href="https://www.hackerrank.com/profile/riddler01">Click me to view my hackerrank profile</a><br>
 
 <a href="https://github.com/vectorsigmaissomewhere/DocumentsToshow/blob/main/Hackerank/readme.md">Click to view my certificates</a><br>
+<br>
+<h1>Projects on CV</h1>
+<a href="https://github.com/vectorsigmaissomewhere/MusicEventTracker">Music Event Tracker</a>
+<a href="https://github.com/vectorsigmaissomewhere/Django-Projects-/tree/main/phonebookapp">Phone Book App</a>
+<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/Blog-web-app">Blog Web Application</a>
+<a href="https://github.com/vectorsigmaissomewhere/Flask-Projects/tree/main/University-Quora">Word Counter</a>
+
 

@@ -18,7 +18,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vectorsigmaissomewhere" alt="whocanbevectorsigma" /></p>
 
-<a href="https://www.hackerrank.com/profile/riddler01">Click me to view my hackerrank profile</a><br>
+<a href="https://www.hackerrank.com/profile/riddler01" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+</a>
 
 <a href="https://github.com/vectorsigmaissomewhere/DocumentsToshow/blob/main/Hackerank/readme.md">Click to view my certificates</a><br>
 <br>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vector</h1>
 <h3 align="center">Tech Enthusiast</h3>
 <img align="right" alt="room" width="400" src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-26960be4d3ce7cff9d948aa697e83927.jpg?resize=1&w=1920">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somewhereinhimalaya&label=Profile%20views&color=0e75b6&style=flat" alt="vectorsigma001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somewhereinhimalaya&label=Profile%20views&color=0e75b6&style=flat&views=5000" alt="vectorsigma001" /> </p>
 <p align="left"> <a href="https://twitter.com/vectorsigma" target="blank"><img src="https://img.shields.io/twitter/follow/vectorsigma?logo=twitter&style=for-the-badge" alt="vectorsigma" /></a> </p>
 - ⚡ Fun fact **I think I know something**
 <h3 align="left">Connect with me:</h3>

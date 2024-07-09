@@ -1,6 +1,9 @@
 <img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/download.gif" width="900" align="center">
 <h1 align="center">Hi 👋, I'm Anish Chaudhary</h1>
 <h3 align="center">Tech Enthusiast</h3>
+<h3>I am currently working in Django and React </h3>
+<p>In my free time, I solve any problem that I find on the internet.</p>
+<p>I love problems.</p>
 <img align="right" alt="room" width="400" src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-26960be4d3ce7cff9d948aa697e83927.jpg?resize=1&w=1920">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectorsigma001&label=Profile%20views&color=0e75b6&style=flat" alt="vectorsigma001" /> </p>
 <p align="left"> <a href="https://twitter.com/vectorsigma" target="blank"><img src="https://img.shields.io/twitter/follow/vectorsigma?logo=twitter&style=for-the-badge" alt="vectorsigma" /></a> </p>

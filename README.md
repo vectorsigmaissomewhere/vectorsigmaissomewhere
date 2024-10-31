@@ -1,4 +1,4 @@
-<img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/download.gif" width="900" align="center">
+<img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/snow%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" width="900" align="center">
 <h1 align="center">Hi 👋, I'm Anish Chaudhary</h1>
 <h3 align="center">Tech Enthusiast</h3>
 <p>I am currently working in Django and React <br/>In my free time, I solve any problem that I find on the internet.</p><br>

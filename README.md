@@ -1,6 +1,9 @@
 <img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/snow%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" width="900" align="center">
 <h1 align="center">Hi 👋, I'm Anish Chaudhary</h1>
 <h3 align="center">Tech Enthusiast</h3>
+<p align="center" style="background-color: red; font-style: italic; font-size: small;">
+  Stay High And Code
+</p>
 <p>I am currently working in Django and React <br/>In my free time, I solve any problem that I find on the internet.</p><br>
 <p>I can help you get started with Django.</p>
 <img align="right" alt="room" width="400" src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-26960be4d3ce7cff9d948aa697e83927.jpg?resize=1&w=1920">

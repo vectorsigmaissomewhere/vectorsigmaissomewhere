@@ -1,7 +1,17 @@
 <img src="https://github.com/vectorsigmaissomewhere/vectorsigmaissomewhere/blob/main/snow%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif" width="900" align="center">
 <h1 align="center">Hi 👋, I'm Anish Chaudhary</h1>
 <h3 align="center">Tech Enthusiast</h3>
-<p>I am currently working in Django and React <br/>In my free time, I solve any problem that I find on the internet.</p><br>
+<section id="tech-stack" style="font-family: Arial, sans-serif; margin: 20px;">
+  <h2 style="color: #2c3e50;">💻 Tech Stack</h2>
+  <ul style="list-style-type: square; padding-left: 20px;">
+    <li><strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, HTMX</li>
+    <li><strong>Backend:</strong> Django, FastAPI, Flask</li>
+    <li><strong>Database:</strong> MySQL, Redis</li>
+    <li><strong>DevOps:</strong> Docker, Kubernetes, Linux</li>
+    <li><strong>Tools:</strong> Git, Postman, VS Code</li>
+  </ul>
+</section>
+<br/><p></p>In my free time, I solve any problem that I find on the internet.</p><br>
 <p>I can help you get started with Django. Moreover,I can help you with flask and fastapi. </p> 
 <img align="right" alt="room" width="400" src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-26960be4d3ce7cff9d948aa697e83927.jpg?resize=1&w=1920">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectorsigma001&label=Profile%20views&color=0e75b6&style=flat" alt="vectorsigma001" /> </p>

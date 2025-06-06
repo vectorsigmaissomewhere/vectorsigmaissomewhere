@@ -19,8 +19,12 @@
 - ⚡ Fun fact **I think I know something**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vectorsigma" height="30" width="40" /></a>
-</p>
+    <a href="https://twitter.com/null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vectorsigma" height="30" width="40" /></a> <a href="https://dev.to/anishchaudhary" target="_blank" rel="noopener noreferrer">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" width="100" />
+</a>
+  
+</p> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 

@@ -46,6 +46,10 @@
 <a href="https://stackoverflow.com/users/21134784/anish-chaudhary">StackOverFLow</a>
 </a>
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 [Medium](https://medium.com/@devanishchaudhary)
 
 <p>Check my certificates after 3 months from 5-6-2025</p>

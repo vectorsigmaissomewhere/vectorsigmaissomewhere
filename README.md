@@ -6,7 +6,7 @@
   <ul style="list-style-type: square; padding-left: 20px;">
     <li><strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, HTMX</li>
     <li><strong>Backend:</strong> Django, FastAPI, Flask, Express.js, </li>
-    <li><strong>Database:</strong> MySQL, MongoDB Redis</li>
+    <li><strong>Database:</strong> MySQL, MongoDB, Redis</li>
     <li><strong>DevOps:</strong> Docker, Kubernetes, Linux</li>
     <li><strong>Tools:</strong> Git, Postman, VS Code</li>
   </ul>

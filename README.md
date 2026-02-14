@@ -74,4 +74,5 @@
 [Medium](https://medium.com/@devanishchaudhary)
 
 <p>Check my certificates after 3 months from 5-6-2025</p>
+<p> Am I lazy, 2/14/2026 11.09 PM, like just max 6 commits in a day is being lazy</p>
 <a href="https://github.com/vectorsigmaissomewhere/DocumentsToshow/blob/main/Hackerank/readme.md">Click to view my certificates</a><br>

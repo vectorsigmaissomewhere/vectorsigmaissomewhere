@@ -4,7 +4,7 @@
 <section id="tech-stack" style="font-family: Arial, sans-serif; margin: 20px;">
   <h2 style="color: #2c3e50;">💻 Tech Stack</h2>
   <ul style="list-style-type: square; padding-left: 20px;">
-    <li><strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, HTMX, Nextjs </li>
+    <li><strong>Frontend:</strong> React, Tailwind CSS, Bootstrap, HTMX, Nextjs, React Native </li>
     <li><strong>Backend:</strong> Django, FastAPI, Flask, Express.js, Nestjs</li>
     <li><strong>Database:</strong> MySQL, MongoDB, Redis</li>
     <li><strong>DevOps:</strong> Docker, Kubernetes, Linux</li>
